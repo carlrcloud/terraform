@@ -1,3 +1,3 @@
-terraform_practice01/file01    # to be remove from github
-terraform_practice01/file01_0
-terraform_practice02/file2      # to be remove from github
+terraform_practice01/*file    # to be remove from github
+terraform_practice01/file*
+terraform_practice02/file*      # to be remove from github
