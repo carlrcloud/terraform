@@ -112,5 +112,6 @@ resource "aws_security_group" "sg_web1" {
 resource "aws_vpc" "projet_terraform" {
 
   cidr_block = var.vpc_cidr
+  
 }
 
