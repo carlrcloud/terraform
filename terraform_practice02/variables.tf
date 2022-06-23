@@ -1,4 +1,4 @@
-#declare our variables
+#declare our variables for dynamic code
 
 variable "aws_region" {
   type        = string

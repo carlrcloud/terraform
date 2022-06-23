@@ -40,7 +40,8 @@ resource "aws_instance" "linux_server01" {
   }
 
 }
-
+ 
+ # declare the securuty_group resources
 resource "aws_security_group" "ssh_sg1" {
   name        = "allow_ssh"
   description = "Allow ssh inbound traffic"
